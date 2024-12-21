@@ -5,6 +5,7 @@ Math Puzzles with Tiered Rewards is a blockchain-based system designed to gamify
 
 ## Contract Address
 > **Deployed Address**:0xd0AcCc894B2CF681eCe895b0F2962662933b3ef9
+![Screenshot 2024-12-21 142725](https://github.com/user-attachments/assets/babba948-1a73-4a87-b800-307c1c74251c)
 
 ## Project Vision
 This project aims to:
